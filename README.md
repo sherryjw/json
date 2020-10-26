@@ -8,7 +8,6 @@
 ```R
 go get github.com/sherryjw/json
 ```
-<br/>
 
 ## 使用说明
 &emsp;&emsp;下面通过一个简单的例子来介绍如何使用该程序包提供的函数。<br/>
